@@ -1,0 +1,12 @@
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+lightfm @ file:///D:/bld/lightfm_1612732298097/work
+lightgbm @ file:///C:/ci/lightgbm_1633019299719/work
+matplotlib==3.5.2
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1652784039997/work
+pandas @ file:///C:/ci/pandas_1650373458095/work
+scikit-learn==1.1.0
+scipy==1.8.0
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+sklearn==0.0
+tqdm==4.64.0
